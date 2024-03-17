@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kannankannanA
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning B.E 
+- 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Linked IN,GITHUB
 
